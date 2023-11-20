@@ -1,11 +1,4 @@
+Hello! My name is Fiona, I am currently a student studying Computer Science and Mathematics <3 
+My passion lies in the intersection of technology and healthcare, where innovation meets the imperative to enhance lives.
 
-- 🔭 I’m currently working on how to sepak english
-- 🌱 I’m currently learning how to use a comp8ter 
-- 💍 I'm currently planning to ban the internet and compiters  
-- 👯 I’m looking to collaborate on CECCUN I LOVE EJAZ
-- 🤔 I’m looking for help with CECCUN BC I AM EJAZ'S NUMBER 1 FAN
-- 💬 Ask me about my boyfriend ejaz <3
-- 📫 How to reach me: dont.
-- 😄 Pronouns: she/her <3
-- ⚡ Fun fact: ejaz is my boyfriend <333
-- 🎀 Organisation: CECCUN <33 (USE FLSE AND FRSM)
+I hope to help people all over the world, and make sure everyone has a chance.
