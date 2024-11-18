@@ -1,4 +1,5 @@
-Hello! My name is Fiona, I am currently a student studying Computer Science and Mathematics <3 
-My passion lies in the intersection of technology and healthcare, where innovation meets the imperative to enhance lives.
+hello :3 im fiona, i'm currently a student studying computer science and maths <3
+i hope to get into medical technology in the future <3
 
-I hope to help people all over the world, and make sure everyone has a chance.
+i want to help people all over the world through medical technology.
+i have some projects planned that ill just update here or smth. still learning how to do all this shit :P
